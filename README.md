@@ -12,8 +12,7 @@ https://towardsdatascience.com/logistic-regression-on-mnist-with-pytorch-b048327
 - CIFAR10: https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## For the optimizer current implementation, we have used the following:
-https://github.com/pytorch/pytorch/blob/99711133403eff8474af0e710a45d367f4fb5e66/torch/optim/_functional.py#L54 <br />
-https://github.com/jettify/pytorch-optimizer/blob/master/torch_optimizer/diffgrad.py
-
+https://github.com/pytorch/pytorch/tree/99711133403eff8474af0e710a45d367f4fb5e66/torch/optim <br />
+https://github.com/jettify/pytorch-optimizer/tree/master/torch_optimizer
 
 
