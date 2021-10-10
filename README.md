@@ -4,6 +4,8 @@
 - Logistic Regression: <br />
 https://towardsdatascience.com/logistic-regression-on-mnist-with-pytorch-b048327f8d19 <br /> https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_logistic_regression/ <br />
 - CNN:
+https://shonit2096.medium.com/cnn-on-cifar10-data-set-using-pytorch-34be87e09844 <br /> 
+https://zhenye-na.github.io/2018/09/28/pytorch-cnn-cifar10.html
 - VGG: https://github.com/uclaml/Padam/blob/master/models/vgg.py
 - ResNet: https://github.com/uclaml/Padam/blob/master/models/resnet.py
 
