@@ -40,6 +40,7 @@ The LogisticRegression module is implemented only for MNIST dataset (for the gen
 - The loss after one epoch is computed (as usually) as the accumulated losses of the batches divided by total number of batches (these values are stored and are used for plots and heatmaps) <br />
 - The loss in the current batch is simply the loss value for the current batch divided by the current number of processed batches (these values are stored but used only for printing) <br />
 - The model.eval() is applied on the test and also on the validation dataset
+- The weight initialization is the default one from PyTorch
 
 ## nn implementations as references:
 - https://github.com/kuangliu/pytorch-cifar/blob/master/main.py
