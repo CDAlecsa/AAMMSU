@@ -6,7 +6,7 @@
 - VGG (https://github.com/uclaml/Padam/blob/master/models/vgg.py)
 - ResNet (https://github.com/uclaml/Padam/blob/master/models/resnet.py)
 
-## Datasets:
+## Datasets (https://pytorch.org/vision/stable/datasets.html):
 - MNIST
 - CIFAR10
 
