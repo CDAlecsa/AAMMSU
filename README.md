@@ -20,4 +20,7 @@ https://github.com/jettify/pytorch-optimizer/tree/master/torch_optimizer
 ## For the train/validation/test split, we have used:
 https://gist.github.com/kevinzakka/d33bf8d6c7f06a9d8c76d97a7879f5cb#file-data_loader-py
 
+## For the dataset pre-processing, see:
+- normalization on MNIST: https://github.com/floydhub/mnist/blob/master/main.py
+- normalization on CIFAR-10: https://zhenye-na.github.io/2018/09/28/pytorch-cnn-cifar10.html
 
