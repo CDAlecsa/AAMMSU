@@ -31,5 +31,7 @@ The config.json file must contain the following:
 - a dictionary which contain two sub-dictionaries of parameters (one for the AAMMSU optimizer and one for the AMSGRAD optimizer)
 - each sub-dictionary contains, for each key (e.g. lr, eps, beta_2, ...) the list of the values we want in our experiments
 
-For our experiments we have 2 plotting options: make actual plots and generate heatmaps for the parameters (see compile.py file)
-The number of runs for the simulations, the number of epochs and the scheduler options are given in the class Opts from utils.py
+For our experiments we have 2 plotting options: make actual plots and generate heatmaps for the parameters (see compile.py file) <br />
+The number of runs for the simulations, the number of epochs and the scheduler options are given in the class Opts from utils.py <br />
+The default VGG and ResNet modules are VGG-11 and ResNet-18 (you can change this in the class create_model from compile.py) <br />
+The LogisticRegression module is implemented only for MNIST dataset (for the general case, one can replace the input and output dimensions from the linear layer)
