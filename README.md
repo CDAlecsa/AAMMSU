@@ -35,3 +35,13 @@ For our experiments we have 2 plotting options: make actual plots and generate h
 The number of runs for the simulations, the number of epochs and the scheduler options are given in the class Opts from utils.py <br />
 The default VGG and ResNet modules are VGG-11 and ResNet-18 (you can change this in the class create_model from compile.py) <br />
 The LogisticRegression module is implemented only for MNIST dataset (for the general case, one can replace the input and output dimensions from the linear layer)
+
+## Remarks:
+- The loss after one epoch is computed (as usually) as the accumulated losses of the batches divided by total number of batches (these values are stored and are used for plots and heatmaps) <br />
+- The loss in the current batch is simply the loss value for the current batch divided by the current number of processed batches (these values are stored but used only for printing) <br />
+- The model.eval() is applied on the test and also on the validation dataset
+
+## nn implementations as references:
+- https://github.com/kuangliu/pytorch-cifar/blob/master/main.py
+- https://github.com/jamespengcheng/PyTorch-CNN-on-CIFAR10/blob/master/ConvNetClassifier.py
+- https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/01-basics/feedforward_neural_network/main.py
