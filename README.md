@@ -11,8 +11,11 @@ https://towardsdatascience.com/logistic-regression-on-mnist-with-pytorch-b048327
 - MNIST: http://yann.lecun.com/exdb/mnist/
 - CIFAR10: https://www.cs.toronto.edu/~kriz/cifar.html
 
-## For the optimizer current implementation, we have used the following:
+## References which helped the current implementation of the optimizer:
 https://github.com/pytorch/pytorch/tree/99711133403eff8474af0e710a45d367f4fb5e66/torch/optim <br />
 https://github.com/jettify/pytorch-optimizer/tree/master/torch_optimizer
+
+## For the train/validation/test split, we have used:
+https://gist.github.com/kevinzakka/d33bf8d6c7f06a9d8c76d97a7879f5cb#file-data_loader-py
 
 
