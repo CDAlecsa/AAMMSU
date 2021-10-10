@@ -12,7 +12,7 @@ https://towardsdatascience.com/logistic-regression-on-mnist-with-pytorch-b048327
 - CIFAR10: https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## For the optimizer current implementation, we have used the following:
-https://github.com/cybertronai/pytorch-lamb/blob/master/pytorch_lamb/lamb.py?fbclid=IwAR0FDgjzJKk0Bf_bz_OFFPrKyhuXUKK-wMGJyDiGaSr1lwzkw3HpOqDXkp4
+https://github.com/pytorch/pytorch/blob/99711133403eff8474af0e710a45d367f4fb5e66/torch/optim/_functional.py#L54
 
 
 
