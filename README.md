@@ -1,7 +1,7 @@
 # AAMMSU optimizer (from the paper : ....)
 
 ## Neural networks architectures that are available:
-- Logistic Regression:
+- Logistic Regression: <br />
 https://towardsdatascience.com/logistic-regression-on-mnist-with-pytorch-b048327f8d19 <br /> https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_logistic_regression/ <br />
 - CNN:
 - VGG: https://github.com/uclaml/Padam/blob/master/models/vgg.py
