@@ -1,2 +1,3 @@
-# AAMMSU
-- implementations in PyTorch regarding AAMMSU optimizer 
+# AAMMSU optimizer (from the paper : ....)
+
+
