@@ -7,6 +7,10 @@
 - *datasets.py*: the main function returns the train/validation/test PyTorch dataloaders
 - *compile.py*: contains the training & evaluation methods
 
+# Experiment guide & remarks:
+
+For an experiment, the options for the scheduler, number of gpus, number of epochs and the number of simulations can be set from the *Opts* class from the file *utils.py*. The other parameters of the experiment can be set in the file *config.json*, which contains a list of 3 elements: the string which represents the type of the dataset (this must have), the string which represents the type of model and a dictionary of parameters.
+
 # References:
 - Datasets:
   - MNIST: http://yann.lecun.com/exdb/mnist/
