@@ -1,5 +1,11 @@
-# Contents of the ** *src* ** folder:
-- 
+# Contents of the *src* (source code) folder:
+- *main.py*: this is the Python file used for running an experiment
+- *config.json*: contains the parameters of the current experiment
+- *utils.py*: contains various functions that are used in the other Python files, along with some settings (epochs, scheduler, gpu, number of simulations)
+- *AAMMSU_optim.py*: it is the PyTorch optimizer that we have implemented 
+- *nn_modules.py*: contains all the neural network modules: LogisticRegression, CNN, VGG, ResNet
+- *datasets.py*: the main function returns the train/validation/test PyTorch dataloaders
+- *compile.py*: contains the training & evaluation methods
 
 # References:
 - Datasets:
