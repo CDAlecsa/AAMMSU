@@ -16,3 +16,7 @@
   - Neural networks on CIFAR-10: https://github.com/kuangliu/pytorch-cifar/blob/master/main.py
   - ConvNet classifier: https://github.com/jamespengcheng/PyTorch-CNN-on-CIFAR10/blob/master/ConvNetClassifier.py
   - FeedForward neural network: https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/01-basics/feedforward_neural_network/main.py
+- Optimizer implementations in PyTorch:
+  - Adam & AMSGrad: https://github.com/pytorch/pytorch/tree/99711133403eff8474af0e710a45d367f4fb5e66/torch/optim
+  - Adaptive optimizers: https://github.com/jettify/pytorch-optimizer/tree/master/torch_optimizer
+ 
