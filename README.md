@@ -1,4 +1,4 @@
-# AAMMSU optimizer (from the paper : ....)
+# PyTorch implementation of AAMMSU optimizer - from the paper : ....
 
 ## Neural networks architectures that are available:
 - Logistic Regression: <br />
