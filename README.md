@@ -46,3 +46,8 @@ The LogisticRegression module is implemented only for MNIST dataset (for the gen
 - https://github.com/kuangliu/pytorch-cifar/blob/master/main.py
 - https://github.com/jamespengcheng/PyTorch-CNN-on-CIFAR10/blob/master/ConvNetClassifier.py
 - https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/01-basics/feedforward_neural_network/main.py
+
+
+## Experiments :
+- LogisticRegression only for MNIST
+- CNN, VGG and ResNet only for CIFAR_10
