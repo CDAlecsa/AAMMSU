@@ -1,4 +1,4 @@
-# PyTorch implementation of the AAMMSU optimizer from 'A theoretical and empirical study of new adaptive algorithms with additional momentum steps and shifted updates for stochastic non-convex optimization': https://arxiv.org/pdf/2110.08531.pdf
+# PyTorch implementation of the AAMMSU optimizer from https://arxiv.org/pdf/2110.08531.pdf
 
 ## Contents of the *src* (source code) folder:
 - *main.py*: this is the Python file used for running an experiment
