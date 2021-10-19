@@ -1,4 +1,6 @@
-# PyTorch implementation of AAMMSU optimizer: https://arxiv.org/pdf/2110.08531.pdf
+<p align="center">
+  <b> <h2> PyTorch implementation of AAMMSU optimizer: https://arxiv.org/pdf/2110.08531.pdf  </h2> </b><br>
+</p>
 
 ## Contents of the *src* (source code) folder:
 - *main.py*: this is the Python file used for running an experiment
